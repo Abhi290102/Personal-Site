@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+h3 {
+  color: #11999f;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  height: 500px;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  height: 100px;
+  padding-top: 50px;
+}
+
+.mountain {
+  position: relative;
+  height: 300px;
+  bottom: 64px;
+}
+
+.upper-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 230px;
+}
+
+.abhinav {
+  height: 200px;
+  width: 200px;
+  margin-top: 40px;
+}
+
+.por-row {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.responsibility {
+  float: top;
+  height: 15%;
+  width: 15%;
+}
+
+.committee {
+  font-weight: bold;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+a {
+  color: #11999f;
+  text-decoration: none;
+  font-weight: bolder;
+  padding: 0px 30px;
+}
+
+.copyright{
+  color: #eaf6f6;
+  margin-top: 30px;
+}
+
